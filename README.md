@@ -1,6 +1,7 @@
 # Lightweight Cryptographic Ciphers (LWC) for IoT Repository
 
-Welcome to the Lightweight Cryptographic Ciphers (LWC) for IoT repository! This repository contains Java implementations of various Lightweight Cryptographic Ciphers designed to offer secure and efficient cryptographic operations with low resource requirements.
+Welcome to the Lightweight Cryptographic Ciphers (LWC) for IoT repository! This repository contains Java implementations of various Lightweight Cryptographic Ciphers designed to offer secure and efficient cryptographic operations with low resource requirements. This project was mainly implemented to test out each cipher's capability for different IoT applications. The research conducted has been published by IEEE, which can be accessed through the link below. Feel free to check it out!
+https://ieeexplore.ieee.org/document/10183537
 
 ## Contents
 
@@ -27,7 +28,7 @@ Please note that this repository is intended for educational purposes and does n
 
 ## Contributing
 
-Contributions to this repository are welcome! If you have ideas for additional LWC ciphers, improvements to existing implementations, or bug fixes, feel free to open an issue or submit a pull request.
+Contributions to this repository are not welcome! If you have ideas for additional LWC ciphers, improvements to existing implementations, or bug fixes, feel free to contact me via email at shraiyash.pandey@gmail.com. 
 
 Before contributing, please ensure that your changes comply with the repository's coding standards and licensing.
 
